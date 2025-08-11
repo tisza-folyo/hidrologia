@@ -1,0 +1,218 @@
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\testhost.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\testhost.exe
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.engine.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.engine.api.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.engine.core.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.deps.json
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.runtimeconfig.json
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.pdb
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.framework.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.csproj.AssemblyReference.cache
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.AssemblyInfoInputs.cache
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.AssemblyInfo.cs
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.csproj.CoreCompileInputs.cache
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.csproj.CopyComplete
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\refint\HidrológiaTest.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.pdb
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.genruntimeconfig.cache
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\ref\HidrológiaTest.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\CoverletSourceRootsMapping_HidrológiaTest
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.deps.json
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.runtimeconfig.json
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.exe
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.dll
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.pdb
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\input1.txt
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\input2.txt
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\üres.txt
+D:\@egyetem\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\input.txt
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\CoverletSourceRootsMapping_HidrológiaTest
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\testhost.exe
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\testhost.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.engine.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.engine.api.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.engine.core.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.deps.json
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.runtimeconfig.json
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.exe
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\input.txt
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\input1.txt
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\input2.txt
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\üres.txt
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.deps.json
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.runtimeconfig.json
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\HidrológiaTest.pdb
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\nunit.framework.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\bin\Debug\net8.0\Hidrológia.pdb
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.csproj.AssemblyReference.cache
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.AssemblyInfoInputs.cache
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.AssemblyInfo.cs
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.csproj.CoreCompileInputs.cache
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.csproj.CopyComplete
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\refint\HidrológiaTest.dll
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.pdb
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\HidrológiaTest.genruntimeconfig.cache
+D:\@egyetem\2. félév\oep\NagyBeadando\Hidrológia\HidrológiaTest\obj\Debug\net8.0\ref\HidrológiaTest.dll
